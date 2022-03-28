@@ -43,7 +43,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Vue](https://vuejs.org/)
+- [Vue 3](https://vuejs.org/)
 - [Bootstrap 5](https://getbootstrap.com/)
 
 ## Author
