@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-comments-section-Sy9MsoRfq](https://www.frontendmentor.io/solutions/interactive-comments-section-Sy9MsoRfq)
 - Live Site URL: [https://anle9650.github.io/interactive-comments-section-main/](https://anle9650.github.io/interactive-comments-section-main/)
 
 ## My process
